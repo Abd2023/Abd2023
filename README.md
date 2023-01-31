@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Amin</h1>
-<h3 align="center">I am a computer engineering Student</h3>
+<h3 align="center">I am a Computer Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/11kfV4a-uypwEqCr3Th-vMtfhZe1aTxUI/view?usp=share_link">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abd2023&label=Profile%20views&color=0e75b6&style=flat" alt="abd2023" /> </p>
