@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **some progects to improve my self in tech world**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Computer Vision, Natural learning Processing, Machine Learning**
 
 - 📫 How to reach me **abdullahamin2022@gmail.com**
 
